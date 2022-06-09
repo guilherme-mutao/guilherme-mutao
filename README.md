@@ -1,4 +1,4 @@
-# Olá <img src ="https://raw.githubusercontent.com/guilherme-mutao/guilherme-mutao/master//hi.gif" width="30px">
+# Olá <img src ="https://raw.githubusercontent.com/guilherme-mutao/guilherme-mutao/master//hi.gif" height="30px">
 
  <img align="center" width="800em" src ="https://raw.githubusercontent.com/guilherme-mutao/guilherme-mutao/master//githubart.PNG" >
  <a href="https://github.com/guilherme-mutao">
